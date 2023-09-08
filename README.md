@@ -7,4 +7,4 @@
 
 <br>
 
-### For live demo:  [personal-todolist-app](https://personal-todolist-app.web.app) 
+### For live demo:  [personal-todolist-app](https://developer0000000.github.io/TodoListApp/) 
